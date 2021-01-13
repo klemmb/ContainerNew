@@ -1,4 +1,4 @@
-# Containers in 3 weeks — Week 1 setup
+# Containers in 3 weeks — Week 1/2 setup
 
 ## Installation
 
